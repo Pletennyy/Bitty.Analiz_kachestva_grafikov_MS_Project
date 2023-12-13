@@ -1,4 +1,4 @@
-# Bitty. Анализ качества графиков MS Project    <img src="https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project/blob/main/Excel13.png" width="75" height="89">
+# Bitty. Анализ качества графиков MS Project 
 Bitty. Анализ качества графиков MS Project - это бесплатная утилита для проверки качества графиков MS Project(.mpp).
 Программа ориентирована на детализированные графики 3 уровня с большим количеством связей.
 Графики проверяются по единственной пока официално задокументированной методикой Агентства по управлению оборонными контрактами» Министерства обороны США (DCMA 14 Point Assessment, Project Schedule Quality Analysis).
@@ -25,4 +25,5 @@ Bitty. Анализ качества графиков MS Project - это бес
 Успехов!
 
 
-[Bitty. Анализ дат в графиках MS Project](https://github.com/Pletennyy/Bitty.Analiz_dat_v_grafikah_MS_Project)
+ <img src="https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project/blob/main/Excel13.png"> 
+ [Bitty. Анализ дат в графиках MS Project](https://github.com/Pletennyy/Bitty.Analiz_dat_v_grafikah_MS_Project)

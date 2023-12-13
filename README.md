@@ -1,0 +1,1 @@
+# Pletennyy-Bitty.Analiz_kachestva_grafikov_MS_Project

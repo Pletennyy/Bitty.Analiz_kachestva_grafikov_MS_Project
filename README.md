@@ -25,5 +25,6 @@ Bitty. Анализ качества графиков MS Project - это бес
 Успехов!
 
 
- <img src="https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project/blob/main/Excel13.png"> 
+ ![](https://github.com/Pletennyy/Bitty.Analiz_kachestva_grafikov_MS_Project/blob/main/Excel13.png)
+ 
  [Bitty. Анализ дат в графиках MS Project](https://github.com/Pletennyy/Bitty.Analiz_dat_v_grafikah_MS_Project)

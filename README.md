@@ -20,7 +20,7 @@ Bitty. Анализ качества графиков MS Project - это бес
   13.	Индекс выполнения Базового плана (BEI).
 
 
-Видео инструкция по работе с программой:  (https://www.youtube.com/watch?v=2gVbGDrN7_U)[https://www.youtube.com/watch?v=2gVbGDrN7_U]
+Видео инструкция по работе с программой:  https://www.youtube.com/watch?v=2gVbGDrN7_U
 
 Делайте качественные графики в MS Project.
 Успехов!
